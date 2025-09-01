@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fff877;
+  --foreground: #171717;
+}
+
+body, html {
+  @apply bg-gray-300 text-gray-700;
+  height: 100%;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+
+  
+}
